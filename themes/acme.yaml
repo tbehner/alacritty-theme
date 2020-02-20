@@ -8,7 +8,7 @@ colors:
 
   # Normal colors
   normal:
-    black:   '0x000000'
+    black:   '0x505050'
     red:     '0x000000'
     green:   '0x000000'
     yellow:  '0x000000'
@@ -19,7 +19,7 @@ colors:
 
   # Bright colors
   bright:
-    black:   '0x000000'
+    black:   '0x505050'
     red:     '0x000000'
     green:   '0x000000'
     yellow:  '0x000000'
